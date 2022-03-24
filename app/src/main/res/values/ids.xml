@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnDelete" type="id" />
+    <item name="txtFirstname" type="id" />
+    <item name="txtLastname" type="id" />
+    <item name="btnInsert" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnRead" type="id" />
+</resources>
